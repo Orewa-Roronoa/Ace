@@ -1,12 +1,6 @@
-num=int(input("enter the number :"))
-mod=num%2
-if mod==0 :
-        print("it is a even number")
-else :
-        print ("it is a odd number")'''
-'''x=int(input("num:"))
-y=int(input("num:"))
-z=int(input("num:"))
+x=int(input("Enter a Number 1:"))
+y=int(input("Enter a Number 2:"))
+z=int(input("Enter a Number 3:"))
 min=mid=max=0
 if x<y and x<z :
         if y<z :
@@ -28,3 +22,4 @@ print("ascending order is ",min,mid,max)
         
 
                 
+
